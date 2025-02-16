@@ -40,9 +40,6 @@ The dataset was preprocessed to handle missing values, encode categorical featur
    - Compared multiple models, including Linear Regression, Random Forest, and Gradient Boosting.
    - Highlighted the best-performing model based on evaluation metrics.
 
-6. **Explainability with SHAP:**
-   - Used SHAP (SHapley Additive exPlanations) values to interpret model predictions.
-   - Visualized feature importance and individual predictions for better understanding.
 
 7. **Evaluation and Insights:**
    - Assessed model accuracy and identified key factors influencing Airbnb prices.
@@ -89,10 +86,6 @@ The dataset was preprocessed to handle missing values, encode categorical featur
    git clone https://github.com/yourusername/airbnb-price-prediction.git
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. Run the notebook:
    ```bash
@@ -109,6 +102,5 @@ Contributions are welcome! If you have suggestions for improvements, please crea
 
 ## **Acknowledgments**
 - Dataset source: https://www.kaggle.com/datasets/airbnb/seattle
-- Tutorials and resources that helped in completing this project.
 
 ---
