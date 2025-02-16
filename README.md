@@ -66,7 +66,7 @@ The dataset was preprocessed to handle missing values, encode categorical featur
   - R²: 0.5654211777836048
   - Random Forest MAE: 35.27284843624934
   - Gradient Boosting MAE: 35.1816597110947
-  - 
+
 
 - Visualization highlights:
   - Price distributions.
@@ -108,7 +108,7 @@ Contributions are welcome! If you have suggestions for improvements, please crea
 ---
 
 ## **Acknowledgments**
-- Dataset source: [Dataset]([url](https://www.kaggle.com/datasets/airbnb/seattle)).
+- Dataset source: [Dataset]((https://www.kaggle.com/datasets/airbnb/seattle)](https://www.kaggle.com/datasets/airbnb/seattle)).
 - Tutorials and resources that helped in completing this project.
 
 ---
