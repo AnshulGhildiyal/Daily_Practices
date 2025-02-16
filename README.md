@@ -108,7 +108,7 @@ Contributions are welcome! If you have suggestions for improvements, please crea
 ---
 
 ## **Acknowledgments**
-- Dataset source: [Dataset]((https://www.kaggle.com/datasets/airbnb/seattle)](https://www.kaggle.com/datasets/airbnb/seattle)).
+- Dataset source: [Dataset]([url](https://www.kaggle.com/datasets/airbnb/seattle)).
 - Tutorials and resources that helped in completing this project.
 
 ---
