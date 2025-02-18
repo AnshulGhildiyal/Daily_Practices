@@ -96,11 +96,68 @@ The dataset was preprocessed to handle missing values, encode categorical featur
 
 ## **Contributing**
 Contributions are welcome! If you have suggestions for improvements, please create a pull request or open an issue.
+---
+## **Acknowledgments**
+- Dataset source: https://www.kaggle.com/datasets/airbnb/seattle
+
 
 
 ---
+---
+---
+
+# TASK 2: CUSTOMER CHURN PREDICTION
+
+
+## Overview
+This project focuses on predicting customer churn using machine learning techniques. The dataset contains customer-related information, and the model aims to classify whether a customer is likely to churn.
+
+## Dataset
+The dataset includes customer attributes such as demographic details, service usage patterns, and account information. The target variable is a binary indicator of whether a customer has churned.
+
+## Features Used
+- Customer demographics
+- Subscription details
+- Usage behavior
+- Historical transactions
+
+## Installation
+To run this project, ensure you have the required dependencies installed:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+Run the Jupyter Notebook to execute the code step by step:
+
+```bash
+jupyter notebook Customer_Churn_Prediction.ipynb
+```
+
+## Model Training
+The notebook includes:
+1. Data Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Model Training & Evaluation
+5. Predictions
+
+## Results
+The trained model is evaluated using metrics such as:
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+## Contributing
+If you’d like to contribute, feel free to fork the repository and create a pull request.
+
 
 ## **Acknowledgments**
-- Dataset source: https://www.kaggle.com/datasets/airbnb/seattle
+- Dataset source: [DATASET](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
+
+
+
 
 ---
